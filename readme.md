@@ -1,6 +1,6 @@
 # Generative reinforcement learning framework for fluid antenna systems based sensing and communication
 
-### This is the codebase for our paper "Generative reinforcement learning framework for fluid antenna systems based sensing and communication".
+### This is the codebase for our paper "Generative reinforcement learning for fluid antenna systems based sensing and communication".
 ---
 
 ## Overview
