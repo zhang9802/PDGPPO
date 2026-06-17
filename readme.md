@@ -1,6 +1,6 @@
-# Generative reinforcement learning framework for fluid antenna systems based sensing and communication
+# [Generative reinforcement learning framework for fluid antenna systems based sensing and communication](https://www.nature.com/articles/s44459-026-00035-0)
 
-### This is the codebase for our paper "Generative reinforcement learning for fluid antenna systems based sensing and communication".
+### This is the codebase for our paper "Generative reinforcement learning for fluid antenna systems based sensing and communication" publised on Npj wireless technology.
 ---
 
 ## Overview
@@ -45,6 +45,9 @@ To use the provided code, you are supposed to:
 
 ## Requirement
 All the simulation results were conducted on a Dell Precision 7960 server (System: Ubuntu 20.04, CPU: Intel(R) Xeon(R) w7-3455, CPU clock: 2.5 GHz, RAM: LPDDR4 128GB, GPU: NVIDIA RTX 4000Ada 20GB) The proposed algorithms are implemented in Python 3.8.20 with Pytorch 2.4.1. 
+
+## Reference
+Zhang, J., Xing, C., Tang, J. et al. Generative reinforcement learning for fluid antenna systems based sensing and communication. npj Wirel. Technol. 2, 30 (2026). https://doi.org/10.1038/s44459-026-00035-0
 
 1. Python 3.8+
 2. Pytorch 2.4.1
