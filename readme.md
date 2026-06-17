@@ -49,8 +49,9 @@ All the simulation results were conducted on a Dell Precision 7960 server (Syste
 1. Python 3.8+
 2. Pytorch 2.4.1
 3. NVIDIA RTX 4000Ada 20GB
+4. Ubuntu 20.04
+5. install the software packages via ```pip install -r requirement.txt```
 
 ## Reference
 Zhang, J., Xing, C., Tang, J. et al. Generative reinforcement learning for fluid antenna systems based sensing and communication. npj Wirel. Technol. 2, 30 (2026). https://doi.org/10.1038/s44459-026-00035-0
-5. Ubuntu 20.04
-6. install the software packages via ```pip install -r requirement.txt```
+
