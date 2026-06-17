@@ -46,11 +46,11 @@ To use the provided code, you are supposed to:
 ## Requirement
 All the simulation results were conducted on a Dell Precision 7960 server (System: Ubuntu 20.04, CPU: Intel(R) Xeon(R) w7-3455, CPU clock: 2.5 GHz, RAM: LPDDR4 128GB, GPU: NVIDIA RTX 4000Ada 20GB) The proposed algorithms are implemented in Python 3.8.20 with Pytorch 2.4.1. 
 
-## Reference
-Zhang, J., Xing, C., Tang, J. et al. Generative reinforcement learning for fluid antenna systems based sensing and communication. npj Wirel. Technol. 2, 30 (2026). https://doi.org/10.1038/s44459-026-00035-0
-
 1. Python 3.8+
 2. Pytorch 2.4.1
 3. NVIDIA RTX 4000Ada 20GB
-4. Ubuntu 20.04
-5. install the software packages via ```pip install -r requirement.txt```
+
+## Reference
+Zhang, J., Xing, C., Tang, J. et al. Generative reinforcement learning for fluid antenna systems based sensing and communication. npj Wirel. Technol. 2, 30 (2026). https://doi.org/10.1038/s44459-026-00035-0
+5. Ubuntu 20.04
+6. install the software packages via ```pip install -r requirement.txt```
